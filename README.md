@@ -41,13 +41,6 @@ streamlit run app.py
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
-
-sentiment-analysis-indobert/ ├── app/ ├── model/indobert ├── data/ ├──
-utils/ ├── evaluation/ ├── requirements.txt └── README.md
-
-------------------------------------------------------------------------
-
 ## ⚙️ Installation
 
 ``` bash
