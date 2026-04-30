@@ -1,0 +1,8 @@
+model/indobert/*.safetensors
+
+model/indobert/checkpoint-*/
+
+model/indobert/*.bin
+model/indobert/*.pt
+
+venv/
