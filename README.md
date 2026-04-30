@@ -70,6 +70,7 @@ Open: http://localhost:8501
   "Biasa saja"                     Neutral
   "Aplikasi ini sangat membantu"   Positive
   "Pelayanan buruk sekali"         Negative
+  -------------------------------- -----------
 
 ------------------------------------------------------------------------
 
