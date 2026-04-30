@@ -81,6 +81,6 @@ Python, IndoBERT, PyTorch, Transformers, Streamlit, Scikit-learn
 
 ## 👨‍💻 Author
 
-Aditya Yulis\
+Aditya Yulis
 
 ------------------------------------------------------------------------
