@@ -61,16 +61,6 @@ streamlit run app.py
 
 Open: http://localhost:8501
 
-------------------------------------------------------------------------
-
-## 📊 Example
-
-  Input                            Sentiment
-  -------------------------------- -----------
-  "Biasa saja"                     Neutral
-  "Aplikasi ini sangat membantu"   Positive
-  "Pelayanan buruk sekali"         Negative
-  -------------------------------- -----------
 
 ------------------------------------------------------------------------
 
